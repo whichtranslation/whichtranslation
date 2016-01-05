@@ -7,13 +7,15 @@
 
 # Site settings
 title: Which Translation?
-email: admin@whichtranslation.com
+email: contact@whichtranslation.com
 description: > # this means to ignore newlines until "baseurl:"
-  Which translation should I read?
+  Because not everyone can be an omniglot.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://whichtranslation.com" # the base hostname & protocol for your site
-twitter_username: whichtranslation
-github_username:  jekyll
+twitter_username: whichtrans
+github_username:  whichtranslation
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-sitemap
