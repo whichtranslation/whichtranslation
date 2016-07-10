@@ -8,7 +8,7 @@ permalink: /homer/the-iliad/
 Classic Translations
 
 * [Alexander Pope](alexander-pope)
-* George Chapman
+* [George Chapman](george-chapman)
 * [Samuel Butler](samuel-butler)
 
 Modern Translations
