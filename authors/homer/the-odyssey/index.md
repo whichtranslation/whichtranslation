@@ -13,14 +13,14 @@ Classic Translations
 
 Modern Translations
 
-* Richmond Lattimore
-* Stanley Lombardo
-* Robert Fitzgerald
-* Robert Fagles
+* [Richmond Lattimore](richmond-lattimore)
+* [Stanley Lombardo](stanley-lombardo)
+* [Robert Fitzgerald](robert-fitzgerald)
+* [Robert Fagles](robert-fagles)
 
 New Translations
 
-* Stephen Mitchell
-* Edward McCrorie
-* Anthony Verity
-* Barry Powell
+* [Stephen Mitchell](stephen-mitchell)
+* [Edward McCrorie](edward-mccrorie)
+* [Anthony Verity](anthony-verity)
+* [Barry Powell](barry-powell)
