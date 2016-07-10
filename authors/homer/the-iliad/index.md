@@ -13,10 +13,10 @@ Classic Translations
 
 Modern Translations
 
-* [Richmond Lattimore](richmond-lattimore)
-* Stanley Lombardo
-* Robert Fitzgerald
-* Robert Fagles
+* [Richmond Lattimore](richmond-lattimore) (1951)
+* [Robert Fitzgerald](robert-fitzgerald) (1974)
+* [Robert Fagles](robert-fagles) (1990)
+* [Stanley Lombardo](stanley-lombardo) (1997)
 
 New Translations
 
