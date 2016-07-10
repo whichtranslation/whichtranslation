@@ -21,9 +21,9 @@ Modern Translations
 New Translations
 
 * Caroline Alexander
-* Peter Green
 * Barry Powell
-* [Stephen Mitchell](stephen-mitchell)
+* [Stephen Mitchell](stephen-mitchell) (2011)
 * Edward McCrorie
 * Anthony Verity
-* [Christopher Logue](christopher-logue)
+* [Peter Green](peter-green) (2015)
+* [Christopher Logue](christopher-logue) (2016)
