@@ -20,10 +20,10 @@ Modern Translations
 
 New Translations
 
-* Christopher Logue, "War Music"
 * Caroline Alexander
 * Peter Green
 * Barry Powell
 * [Stephen Mitchell](stephen-mitchell)
 * Edward McCrorie
 * Anthony Verity
+* [Christopher Logue](christopher-logue)
