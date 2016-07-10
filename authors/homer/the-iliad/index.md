@@ -5,9 +5,6 @@ author: Homer
 work: The Iliad
 permalink: /homer/the-iliad/
 ---
-
-Homer - The Iliad
-
 Classic Translations
 
 * [Alexander Pope](alexander-pope)
