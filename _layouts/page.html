@@ -4,11 +4,45 @@ layout: default
 <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title">
+    {% if page.author %}
+    {% assign author_slug = page.url | split: "/" | slice: -3, 1 %} 
+    <a href="{{ site.baseurl }}/{{ author_slug }}/">{{ page.author }}</a>
+    {% endif %}
+    {% if page.work %}
+    {% assign work_slug = page.url | split: "/" | slice: -2, 1 %} 
+    - <a href="{{ site.baseurl }}/{{ author_slug }}/{{ work_slug }}/">{{ page.work }}</a>
+    {% endif %}
+    {% if page.translator %}
+    {% assign translator_slug = page.url | split: "/" | last %} 
+    - <a href="{{ site.baseurl }}/{{ author_slug }}/{{ work_slug }}/{{ translator_slug }}/">{{ page.translator }}</a>
+    {% endif %}
+    </h1>
   </header>
 
   <div class="post-content">
+    {% if page.gutenberg %}
+    <a href="http://www.gutenberg.org/ebooks/{{ page.gutenberg }}" target="_blank">View this translation on Project Gutenberg</a>
+    {% endif %}
+    {% for asin in page.asins %}
+    <a href="http://www.amazon.com/dp/{{ asin }}/?tag=whichtrans-20" target="_blank">View this translation on Amazon</a><br/>
+    {% endfor %}
+    {% for asin in page.kindle_asins %}
+    <a href="http://www.amazon.com/dp/{{ asin }}/?tag=whichtrans-20" target="_blank">View the Kindle edition of this translation on Amazon</a><br/>
+    {% endfor %}
+    {% for isbn in page.isbns %}
+    <a href="http://www.worldcat.org/isbn/{{ isbn }}" target="_blank">Search for this translation in WorldCat</a></br>
+    {% endfor %}
     {{ content }}
+    {% if page.reviews %}
+    <br/>
+    <h3>Reviews:</h3>
+    <ul>
+      {% for review in page.reviews %}
+      <li><a href="{{ review.url }}" target="_blank">“{{ review.title }}”, {{ review.author }}, <i>{{ review.venue }}</i></a>
+      {% endfor %}
+    </ul>
+    {% endif %}
   </div>
 
 </article>
