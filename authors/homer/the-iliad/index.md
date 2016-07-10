@@ -20,10 +20,10 @@ Modern Translations
 
 New Translations
 
-* Caroline Alexander
-* Barry Powell
 * [Stephen Mitchell](stephen-mitchell) (2011)
-* Edward McCrorie
-* Anthony Verity
+* [Edward McCrorie](edward-mccrorie) (2012)
+* [Anthony Verity](anthony-verity) (2012)
+* [Barry Powell](barry-powell) (2013)
 * [Peter Green](peter-green) (2015)
+* [Caroline Alexander](caroline-alexander) (2015)
 * [Christopher Logue](christopher-logue) (2016)
