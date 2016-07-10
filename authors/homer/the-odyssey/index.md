@@ -17,3 +17,10 @@ Modern Translations
 * Stanley Lombardo
 * Robert Fitzgerald
 * Robert Fagles
+
+New Translations
+
+* Stephen Mitchell
+* Edward McCrorie
+* Anthony Verity
+* Barry Powell
