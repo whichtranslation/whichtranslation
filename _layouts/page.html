@@ -6,11 +6,11 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
     {% if page.author %}
-    {% assign author_slug = page.url | split: "/" | slice: -3, 1 %} 
+    {% assign author_slug = page.url | split: "/" | slice: 1, 1 %} 
     <a href="{{ site.baseurl }}/{{ author_slug }}/">{{ page.author }}</a>
     {% endif %}
     {% if page.work %}
-    {% assign work_slug = page.url | split: "/" | slice: -2, 1 %} 
+    {% assign work_slug = page.url | split: "/" | slice: 2, 1 %} 
     - <a href="{{ site.baseurl }}/{{ author_slug }}/{{ work_slug }}/">{{ page.work }}</a>
     {% endif %}
     {% if page.translator %}
