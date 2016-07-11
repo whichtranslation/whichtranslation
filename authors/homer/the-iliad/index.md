@@ -10,6 +10,7 @@ Classic Translations
 * [Alexander Pope](alexander-pope)
 * [George Chapman](george-chapman)
 * [Samuel Butler](samuel-butler)
+* [A.T. Murray](at-murray)
 
 Modern Translations
 
