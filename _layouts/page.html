@@ -21,8 +21,9 @@ layout: default
   </header>
 
   <div class="post-content">
+    <p>
     {% if page.gutenberg %}
-    <a href="http://www.gutenberg.org/ebooks/{{ page.gutenberg }}" target="_blank">View this translation on Project Gutenberg</a>
+    <a href="http://www.gutenberg.org/ebooks/{{ page.gutenberg }}" target="_blank">View this translation on Project Gutenberg</a><br/>
     {% endif %}
     {% for asin in page.asins %}
     <a href="http://www.amazon.com/dp/{{ asin }}/?tag=whichtrans-20" target="_blank">View this translation on Amazon</a><br/>
@@ -33,7 +34,16 @@ layout: default
     {% for isbn in page.isbns %}
     <a href="http://www.worldcat.org/isbn/{{ isbn }}" target="_blank">Search for this translation in WorldCat</a></br>
     {% endfor %}
+    </p>
     {{ content }}
+    {% if page.excerpts %}
+    <h3>Excerpts:</h3>
+    <ul>
+    {% for excerpt in page.excerpts %}
+    <li>{{ excerpt.excerpt | newline_to_br }}</li>
+    {% endfor %}
+    </ul>
+    {% endif %}
     {% if page.reviews %}
     <br/>
     <h3>Reviews:</h3>

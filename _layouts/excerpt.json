@@ -1,0 +1,3 @@
+---
+---
+{% for author in site.authors %}{% if author.author == page.author and author.work == page.work and author.translator == page.translator and author.excerpts %}{{ author.excerpts | jsonify }}{% endif %}{% endfor %}
