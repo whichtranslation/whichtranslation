@@ -10,6 +10,8 @@ asins:
   - "1480048348"
 kindle_asins:
   - "B0082TAAMO"
+isbns:
+  - "978-1480048348"
 excerpts:
   - citation: "1.1"
     excerpt: |+
