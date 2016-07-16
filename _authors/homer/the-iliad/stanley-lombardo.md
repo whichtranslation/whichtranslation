@@ -20,6 +20,10 @@ reviews:
     url: "http://bmcr.brynmawr.edu/1997/97.07.20.html"
     author: "Dana L. Burgess"
     venue: Bryn Mawr Classical Review
+  - title: "Like a Meteorite"
+    url: "http://www.lrb.co.uk/v19/n15/james-davidson/like-a-meteorite"
+    author: James Davidson
+    venue: London Review of Books
 excerpts:
   - citation: "1.1"
     excerpt: |+
