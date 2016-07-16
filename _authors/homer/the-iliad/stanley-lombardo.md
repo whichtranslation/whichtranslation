@@ -11,6 +11,15 @@ editions:
     asin: "0872203522"
     kindle_asin: "B003ZDNZ1A"
     isbn: "978-0872203525"
+reviews:
+  - title: "Yo, Achilles"
+    url: "https://www.nytimes.com/books/97/07/20/reviews/970720.20mendelt.html"
+    author: Daniel Mendelsohn
+    venue: The New York Times
+  - title: "Stanley Lombardo (trans.), The Iliad"
+    url: "http://bmcr.brynmawr.edu/1997/97.07.20.html"
+    author: "Dana L. Burgess"
+    venue: Bryn Mawr Classical Review
 excerpts:
   - citation: "1.1"
     excerpt: |+
