@@ -9,7 +9,7 @@ The question "which translation should I read of Borges?" is a complicated one t
 
 Historically, Borges's fame in the English-speaking world started with the 1962 publication of two different and separately-translated short story collections, [_Ficciones_](ficciones) and [_Labyrinths_](labyrinths), which collected overlapping but different sets of stories. Of these, I judge [_Ficciones_](ficciones) to be the superior collection of translations (perhaps because I read it first). 
 
-Most of the other writings of Borges have also received a recent translation by Andrew Hurley in the Viking/Penguin-published collections _Selected Non-Fictions_, _Selected Poems_, and _Collected Fictions_, subsets of which have been re-published in other collections, such as _The Aleph and Other Stories_.
+Most of the other writings of Borges have also received a recent translation by Andrew Hurley in the Viking/Penguin-published collections _Selected Non-Fictions_, _Selected Poems_, and _Collected Fictions_, subsets of which have been re-published in other collections, such as _The Aleph and Other Stories_,  _The Book of Sand and Shakespeare's Memory_, and _A Universal History of Iniquity_.
 
 |                                             | [_Ficciones_](ficciones) | | [_Labyrinths_](labyrinths) |
 |---------------------------------------------|-----------|-|------------|
