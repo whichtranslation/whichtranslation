@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kafka - The Metamorphosis
-author: Kafka
+author: Franz Kafka
 work: The Metamorphosis
 permalink: /kafka/the-metamorphosis/
 ---

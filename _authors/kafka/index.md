@@ -2,8 +2,7 @@
 layout: page
 title: Kafka
 permalink: /kafka/
+author: Franz Kafka
 ---
-
-Kafka
 
 * [The Metamorphosis](the-metamorphosis)

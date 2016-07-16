@@ -2,9 +2,8 @@
 layout: page
 title: Homer
 permalink: /homer/
+author: Homer
 ---
-
-Homer
 
 * [The Iliad](the-iliad)
 * [The Odyssey](the-odyssey)
