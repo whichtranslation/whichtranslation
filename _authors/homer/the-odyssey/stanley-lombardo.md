@@ -5,12 +5,12 @@ author: Homer
 work: The Odyssey
 translator: Stanley Lombardo
 permalink: /homer/the-odyssey/stanley-lombardo/
-asins:
- - "0872204847"
-kindle_asins:
- - "B003V8BN9K"
-isbns:
- - "978-0872204843"
+editions:
+  - publisher: "Hackett Publishing"
+    year: 2000
+    asin: "0872204847"
+    kindle_asin: "B003V8BN9K"
+    isbn: "978-0872204843"
 ---
 
 

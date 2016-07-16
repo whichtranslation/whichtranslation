@@ -23,16 +23,19 @@ layout: default
   <div class="post-content">
     <p>
     {% if page.gutenberg %}
-    <a href="http://www.gutenberg.org/ebooks/{{ page.gutenberg }}" target="_blank">View this translation on Project Gutenberg</a><br/>
+    <a href="http://www.gutenberg.org/ebooks/{{ page.gutenberg }}" target="_blank">View this translation on Project Gutenberg</a><br/><br/>
     {% endif %}
-    {% for asin in page.asins %}
-    <a href="http://www.amazon.com/dp/{{ asin }}/?tag=whichtrans-20" target="_blank">View this translation on Amazon</a><br/>
-    {% endfor %}
-    {% for asin in page.kindle_asins %}
-    <a href="http://www.amazon.com/dp/{{ asin }}/?tag=whichtrans-20" target="_blank">View the Kindle edition of this translation on Amazon</a><br/>
-    {% endfor %}
-    {% for isbn in page.isbns %}
-    <a href="http://www.worldcat.org/isbn/{{ isbn }}" target="_blank">Search for this translation in WorldCat</a></br>
+    {% for edition in page.editions %}
+    <i>{{ edition.publisher }}</i>, {{ edition.year }}<br/>
+    {% if edition.asin %}
+    <a href="http://www.amazon.com/dp/{{ edition.asin }}/?tag=whichtrans-20" target="_blank">View this translation on Amazon</a><br/>
+    {% endif %}
+    {% if edition.kindle_asin %}
+    <a href="http://www.amazon.com/dp/{{ edition.kindle_asin }}/?tag=whichtrans-20" target="_blank">View the Kindle edition of this translation on Amazon</a><br/>
+    {% endif %}
+    {% if edition.isbn %}
+    <a href="http://www.worldcat.org/isbn/{{ edition.isbn }}" target="_blank">Search for this translation in WorldCat</a></br>
+    {% endif %}
     {% endfor %}
     </p>
     {{ content }}

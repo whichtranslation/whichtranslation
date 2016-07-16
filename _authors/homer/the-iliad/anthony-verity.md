@@ -5,10 +5,10 @@ author: Homer
 work: The Iliad
 translator: Anthony Verity
 permalink: /homer/the-iliad/anthony-verity/
-asins:
- - "0199645213"
-kindle_asins:
- - "B005VGMLCI"
-isbns:
- - "978-0199645213"
+editions:
+  - publisher: Oxford University Press
+    year: 2012
+    asin: "0199645213"
+    kindle_asin: "B005VGMLCI"
+    isbn: "978-0199645213"
 ---

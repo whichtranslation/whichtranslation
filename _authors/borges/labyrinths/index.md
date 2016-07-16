@@ -4,8 +4,9 @@ author: Jorge Luis Borges
 title: Borges - Labyrinths
 work: Labyrinths
 permalink: /borges/labyrinths/
-asins:
-  - "0811216993"
-isbns:
-  - "978-0811216999"
+editions:
+  - publisher: New Directions
+    year: 2007
+    asin: "0811216993"
+    isbn: "978-0811216999"
 ---

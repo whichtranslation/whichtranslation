@@ -4,10 +4,10 @@ author: Jorge Luis Borges
 title: Borges - Ficciones
 work: Ficciones
 permalink: /borges/ficciones/
-asins:
-  - "0802130305"
-isbns:
-  - "978-0802130303"
-kindle_asins:
-  - "B00XUYQUZ2"
+editions:
+  - publisher: Grove Press
+    year: 1994
+    asin: "0802130305"
+    isbn: "978-0802130303"
+    kindle_asin: "B00XUYQUZ2"
 ---

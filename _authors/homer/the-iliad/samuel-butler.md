@@ -6,6 +6,10 @@ work: The Iliad
 translator: Samuel Butler
 permalink: /homer/the-iliad/samuel-butler/
 gutenberg: 2199
+editions:
+  - publisher: Dover Publications
+    year: 1999
+    asin: "0486408833"
 excerpts:
   - citation: "1.1"
     excerpt: |+

@@ -5,10 +5,10 @@ author: Homer
 work: The Iliad
 translator: Caroline Alexander
 permalink: /homer/the-iliad/caroline-alexander/
-asins:
- - "0062046284"
-kindle_asins:
- - "B00U1R6RRC"
-isbns:
- - "978-0062046277"
+editions:
+  - publisher: Ecco
+    year: 2016
+    asin: "0062046284"
+    kindle_asin: "B00U1R6RRC"
+    isbn: "978-0062046277"
 ---

@@ -5,8 +5,9 @@ author: Homer
 work: The Odyssey
 translator: Anthony Verity
 permalink: /homer/the-odyssey/anthony-verity/
-asins:
- - "0199669104"
-isbns:
- - "978-0199669103"
+editions:
+  - publisher: Oxford University Press
+    year: 2017
+    asin: "0199669104"
+    isbn: "978-0199669103"
 ---

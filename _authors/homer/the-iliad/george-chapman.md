@@ -6,6 +6,11 @@ author: Homer
 work: The Iliad
 permalink: /homer/the-iliad/george-chapman/
 gutenberg: 51355
+editions:
+  - publisher: "Princeton University Press"
+    year: 1998
+    asin: "0691002363"
+    isbn: "978-0691002361"
 excerpts:
   - citation: "1.1"
     excerpt: |+

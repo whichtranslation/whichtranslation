@@ -5,12 +5,12 @@ author: Homer
 work: The Iliad
 translator: Richmond Lattimore
 permalink: /homer/the-iliad/richmond-lattimore/
-asins:
- - "0226470490"
-kindle_asins:
- - "B0069SJMQU"
-isbns:
- - "978-0226470498"
+editions:
+  - publisher: University Of Chicago Press
+    year: 2011
+    asin: "0226470490"
+    kindle_asin: "B0069SJMQU"
+    isbn: "978-0226470498"
 excerpts:
   - citation: "1.1"
     excerpt: |+

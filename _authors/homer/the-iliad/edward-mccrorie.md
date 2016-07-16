@@ -5,10 +5,10 @@ author: Homer
 work: The Iliad
 translator: Edward McCrorie
 permalink: /homer/the-iliad/edward-mccrorie/
-asins:
- - "142140642X"
-kindle_asins:
- - "B0099SMU2K"
-isbns:
- - "978-1421406428"
+editions:
+  - publisher: "Johns Hopkins University Press"
+    year: 2012
+    asin: "142140642X"
+    kindle_asin: "B0099SMU2K"
+    isbn: "978-1421406428"
 ---

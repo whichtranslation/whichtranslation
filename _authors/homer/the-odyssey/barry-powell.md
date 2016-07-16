@@ -5,8 +5,9 @@ author: Homer
 work: The Odyssey
 translator: Barry Powell
 permalink: /homer/the-odyssey/barry-powell/
-asins:
- - "0199925887"
-isbns:
- - "978-0199925889"
+editions:
+  - publisher: Oxford University Press
+    year: 2014
+    asin: "0199925887"
+    isbn: "978-0199925889"
 ---

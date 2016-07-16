@@ -5,10 +5,10 @@ author: Homer
 work: The Iliad
 translator: Christopher Logue
 permalink: /homer/the-iliad/christopher-logue/
-asins:
- - "0374286493"
-kindle_asins:
- - "B00ZOLKZ8W"
-isbns:
- - "978-0374286491"
+editions:
+  - publisher: "Farrar, Straus and Giroux"
+    year: 2016
+    asin: "0374286493"
+    kindle_asin: "B00ZOLKZ8W"
+    isbn: "978-0374286491"
 ---

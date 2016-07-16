@@ -6,12 +6,12 @@ author: Homer
 work: The Iliad
 permalink: /homer/the-iliad/alexander-pope/
 gutenberg: 6130
-asins:
-  - "1480048348"
-kindle_asins:
-  - "B0082TAAMO"
-isbns:
-  - "978-1480048348"
+editions:
+  - publisher: CreateSpace
+    year: 2012
+    asin: "1480048348"
+    kindle_asin: "B0082TAAMO"
+    isbns: "978-1480048348"
 excerpts:
   - citation: "1.1"
     excerpt: |+

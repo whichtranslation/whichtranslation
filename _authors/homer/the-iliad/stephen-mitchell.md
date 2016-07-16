@@ -5,12 +5,12 @@ author: Homer
 work: The Iliad
 translator: Stephen Mitchell
 permalink: /homer/the-iliad/stephen-mitchell/
-asins:
- - "1439163383"
-kindle_asins:
- - "B004T4KXBE"
-isbns:
- - "978-1439163382"
+editions:
+  - publisher: Atria Books
+    year: 2012
+    asin: "1439163383"
+    kindle_asin: "B004T4KXBE"
+    isbn: "978-1439163382"
 reviews:
  - title: "It's Not All Greek to Him"
    url: http://www.wsj.com/articles/SB10001424052970204422404576597201215250720

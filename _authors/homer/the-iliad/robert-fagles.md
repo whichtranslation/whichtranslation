@@ -5,12 +5,12 @@ author: Homer
 work: The Iliad
 translator: Robert Fagles
 permalink: /homer/the-iliad/robert-fagles/
-asins:
- - "0140275363"
-kindle_asins:
- - "B002WE46X4"
-isbns:
- - "978-0140275360"
+editions:
+  - publisher: Penguin Classics
+    year: 1998
+    asin: "0140275363"
+    kindle_asin: "B002WE46X4"
+    isbn: "978-0140275360"
 excerpts:
   - citation: "1.1"
     excerpt: |+

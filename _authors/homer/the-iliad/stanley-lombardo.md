@@ -5,12 +5,12 @@ author: Homer
 work: The Iliad
 translator: Stanley Lombardo
 permalink: /homer/the-iliad/stanley-lombardo/
-asins:
- - "0872203522"
-kindle_asins:
- - "B003ZDNZ1A"
-isbns:
- - "978-0872203525"
+editions:
+  - publisher: Hackett Publishing
+    year: 1997
+    asin: "0872203522"
+    kindle_asin: "B003ZDNZ1A"
+    isbn: "978-0872203525"
 excerpts:
   - citation: "1.1"
     excerpt: |+

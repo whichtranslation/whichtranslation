@@ -5,12 +5,12 @@ author: Homer
 work: The Odyssey
 translator: Richmond Lattimore
 permalink: /homer/the-odyssey/richmond-lattimore/
-asins:
- - "006124418X"
-kindle_asins:
- - "B002TIOYT4"
-isbns:
- - "978-0061244186"
+editions:
+  - publisher:  Harper Perennial Modern Classics
+    year: 2007
+    asin: "006124418X"
+    kindle_asin: "B002TIOYT4"
+    isbn: "978-0061244186"
 ---
 
 
