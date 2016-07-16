@@ -33,6 +33,9 @@ layout: default
     {% if edition.kindle_asin %}
     <a href="http://www.amazon.com/dp/{{ edition.kindle_asin }}/?tag=whichtrans-20" target="_blank">View the Kindle edition of this translation on Amazon</a><br/>
     {% endif %}
+    {% if edition.audible_asin %}
+    <a href="http://www.amazon.com/dp/{{ edition.audible_asin }}/?tag=whichtrans-20" target="_blank">View the Audible edition of this translation on Amazon</a><br/>
+    {% endif %}
     {% if edition.isbn %}
     <a href="http://www.worldcat.org/isbn/{{ edition.isbn }}" target="_blank">Search for this translation in WorldCat</a></br>
     {% endif %}
