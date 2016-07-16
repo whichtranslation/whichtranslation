@@ -6,6 +6,10 @@ author: Homer
 work: The Iliad
 permalink: /homer/the-iliad/alexander-pope/
 gutenberg: 6130
+asins:
+  - "1480048348"
+kindle_asins:
+  - "B0082TAAMO"
 excerpts:
   - citation: "1.1"
     excerpt: |+
