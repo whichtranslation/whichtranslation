@@ -24,6 +24,7 @@ New Translations
 * [Stephen Mitchell](stephen-mitchell) (2011)
 * [Edward McCrorie](edward-mccrorie) (2012)
 * [Anthony Verity](anthony-verity) (2012)
+* [Alice Oswald](alice-oswald) (2012)
 * [Barry Powell](barry-powell) (2013)
 * [Peter Green](peter-green) (2015)
 * [Caroline Alexander](caroline-alexander) (2015)
