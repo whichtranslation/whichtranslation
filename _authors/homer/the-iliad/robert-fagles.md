@@ -28,6 +28,10 @@ reviews:
     url: "https://lareviewofbooks.org/article/the-english-iliad/"
     author: John Farrell
     venue: Los Angeles Review of Books
+  - title: "Translating the ‘Iliad’? Who Isn’t."
+    url: "http://www.thedailybeast.com/articles/2016/01/01/translating-the-iliad-who-isn-t.html"
+    author: James Romm
+    venue: The Daily Beast
 excerpts:
   - citation: "1.1"
     excerpt: |+

@@ -11,6 +11,11 @@ editions:
     year: 1998
     asin: "0691002363"
     isbn: "978-0691002361"
+reviews:
+  - title: "Translating the ‘Iliad’? Who Isn’t."
+    url: "http://www.thedailybeast.com/articles/2016/01/01/translating-the-iliad-who-isn-t.html"
+    author: James Romm
+    venue: The Daily Beast
 excerpts:
   - citation: "1.1"
     excerpt: |+

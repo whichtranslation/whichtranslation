@@ -17,6 +17,10 @@ reviews:
     url: "http://www.nytimes.com/1997/06/01/books/on-reading-pope-s-homer.html?pagewanted=all"
     author: "Garry Wills"
     venue: The New York Times
+  - title: "Translating the ‘Iliad’? Who Isn’t."
+    url: "http://www.thedailybeast.com/articles/2016/01/01/translating-the-iliad-who-isn-t.html"
+    author: James Romm
+    venue: The Daily Beast
 excerpts:
   - citation: "1.1"
     excerpt: |+

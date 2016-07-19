@@ -21,6 +21,10 @@ reviews:
     url: "http://www.nytimes.com/2014/11/23/books/review/dan-stevens-reads-homer-translations.html?_r=0"
     author: Caroline Alexander
     venue: The New York Times
+  - title: "Translating the ‘Iliad’? Who Isn’t."
+    url: "http://www.thedailybeast.com/articles/2016/01/01/translating-the-iliad-who-isn-t.html"
+    author: James Romm
+    venue: The Daily Beast
 excerpts:
   - citation: "1.1"
     excerpt: |+
