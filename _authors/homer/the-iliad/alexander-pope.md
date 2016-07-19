@@ -12,6 +12,11 @@ editions:
     asin: "1480048348"
     kindle_asin: "B0082TAAMO"
     isbns: "978-1480048348"
+reviews:
+  - title: "On Reading Pope's Homer"
+    url: "http://www.nytimes.com/1997/06/01/books/on-reading-pope-s-homer.html?pagewanted=all"
+    author: "Garry Wills"
+    venue: The New York Times
 excerpts:
   - citation: "1.1"
     excerpt: |+
