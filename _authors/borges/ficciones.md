@@ -10,4 +10,7 @@ editions:
     asin: "0802130305"
     isbn: "978-0802130303"
     kindle_asin: "B00XUYQUZ2"
+excerpts:
+  - citation: "_Tlön, Uqbar, Orbis Tertius_ - opening"
+    excerpt: "I owe the discovery of Uqbar to the conjunction of a mirror and an encylopedia. The unnerving mirror hung at the end of a corridor in a villa on Calle Gaona, in Ramos Mejía; the misleading encylopedia goes by the name of _The Anglo-American Cyclopaedia_ (New York, 1917), and is a literal if inadequate reprint of the 1902 _Encyclopaedia Britannica_."
 ---

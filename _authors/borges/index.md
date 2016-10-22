@@ -9,36 +9,34 @@ The question "which translation should I read of Borges?" is a complicated one t
 
 Historically, Borges's fame in the English-speaking world started with the 1962 publication of two different and separately-translated short story collections, [_Ficciones_](ficciones) and [_Labyrinths_](labyrinths), which collected overlapping but different sets of stories. Of these, I judge [_Ficciones_](ficciones) to be the superior collection of translations (perhaps because I read it first). 
 
-Most of the other writings of Borges have also received a recent translation by Andrew Hurley in the Viking/Penguin-published collections _Selected Non-Fictions_, _Selected Poems_, and [_Collected Fictions_](collected-fictions), subsets of which have been re-published in other collections, such as _The Aleph and Other Stories_,  _The Book of Sand and Shakespeare's Memory_, and _A Universal History of Iniquity_.
+Most of the other writings of Borges have also received a recent translation by Andrew Hurley in the Viking/Penguin-published collections _Selected Non-Fictions_, _Selected Poems_, and [_Collected Fictions_](collected-fictions), subsets of which have been re-published in other collections, such as _The Aleph and Other Stories_,  _The Book of Sand and Shakespeare's Memory_, and _A Universal History of Iniquity_. A handful of the translations from [_Labyrinths_](labyrinths) have also been collected alongside a handful of essays in the New Directions-published [_Everything and Nothing_](everything-and-nothing).
 
-|                                             | [_Ficciones_](ficciones) | | [_Labyrinths_](labyrinths) |
-|---------------------------------------------|-----------|-|------------|
-| Tlön, Uqbar, Orbis Tertius                  | ✓         | | ✓          |
-| The Approach to Al-Mu'tasim                 | ✓         | | ✗          |
-| Pierre Menard, Author of the Quixote        | ✓         | | ✓          |
-| The Circular Ruins                          | ✓         | | ✓          |
-| The Lottery in Babylon                      | ✓         | | ✓          |
-| An Examination of the Work of Herbert Quain | ✓         | | ✗          |
-| The Library of Babel                        | ✓         | | ✓          |
-| The Garden of Forking Paths                 | ✓         | | ✓          |
-| Funes the Memorious                         | ✓         | | ✓          |
-| The Form of the Sword                       | ✓         | | ✓          |
-| Theme of the Traitor and the Hero           | ✓         | | ✓          |
-| Death and the Compass                       | ✓         | | ✓          |
-| The Secret Miracle                          | ✓         | | ✓          |
-| Three Versions of Judas                     | ✓         | | ✓          |
-| The End                                     | ✓         | | ✗          |
-| The Sect of the Phoenix                     | ✓         | | ✓          |
-| The South                                   | ✓         | | ✗          |
-| The Immortal                                | ✗         | | ✓          |
-| The Theologians                             | ✗         | | ✓          |
-| Story of the Warrior and the Captive        | ✗         | | ✓          |
-| Emma Zunz                                   | ✗         | | ✓          |
-| The House of Asterion                       | ✗         | | ✓          |
-| Deutsches Requiem                           | ✗         | | ✓          |
-| Averroes' Search                            | ✗         | | ✓          |
-| The Zahir                                   | ✗         | | ✓          |
-| The Waiting                                 | ✗         | | ✓          |
-| The God's Script                            | ✗         | | ✓          |
-
-
+|                                             | [_Ficciones_](ficciones) | | [_Labyrinths_](labyrinths) | | [_E & N_](everything-and-nothing) |
+|---------------------------------------------|-----------|-|------------|-|-|
+| [Tlön, Uqbar, Orbis Tertius](tlon-uqbar-orbis-tertius)                  | ✓         | | ✓          | |✓ |
+| The Approach to Al-Mu'tasim                 | ✓         | | ✗          | |✗ |
+| Pierre Menard, Author of the Quixote        | ✓         | | ✓          | |✓ |
+| The Circular Ruins                          | ✓         | | ✓          | |✗ |
+| The Lottery in Babylon                      | ✓         | | ✓          | |✓ |
+| An Examination of the Work of Herbert Quain | ✓         | | ✗          | |✗ |
+| The Library of Babel                        | ✓         | | ✓          | |✗ |
+| The Garden of Forking Paths                 | ✓         | | ✓          | |✓ |
+| Funes the Memorious                         | ✓         | | ✓          | |✗ |
+| The Form of the Sword                       | ✓         | | ✓          | |✗ |
+| Theme of the Traitor and the Hero           | ✓         | | ✓          | |✗ |
+| Death and the Compass                       | ✓         | | ✓          | |✓ |
+| The Secret Miracle                          | ✓         | | ✓          | |✗ |
+| Three Versions of Judas                     | ✓         | | ✓          | |✗ |
+| The End                                     | ✓         | | ✗          | |✗ |
+| The Sect of the Phoenix                     | ✓         | | ✓          | |✗ |
+| The South                                   | ✓         | | ✗          | |✗ |
+| The Immortal                                | ✗         | | ✓          | |✗ |
+| The Theologians                             | ✗         | | ✓          | |✗ |
+| Story of the Warrior and the Captive        | ✗         | | ✓          | |✗ |
+| Emma Zunz                                   | ✗         | | ✓          | |✗ |
+| The House of Asterion                       | ✗         | | ✓          | |✗ |
+| Deutsches Requiem                           | ✗         | | ✓          | |✗ |
+| Averroes' Search                            | ✗         | | ✓          | |✗ |
+| The Zahir                                   | ✗         | | ✓          | |✗ |
+| The Waiting                                 | ✗         | | ✓          | |✗ |
+| The God's Script                            | ✗         | | ✓          | |✗ |
