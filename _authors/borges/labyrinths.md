@@ -16,4 +16,8 @@ excerpts:
     excerpt: "He did not want to compose another _Quixote_—which is easy—but _the Quixote itself_. Needless to say, he never contemplated a mechanical transcription of the original; he did not propose to copy it. His admirable intention was to produce a few pages which would coincide—word for word and line for line—with those of Miguel Cervantes."
   - citation: "[_The Lottery in Babylon_](/borges/the-lottery-in-babylon)"
     excerpt: "My father used to say that formerly—a matter of centuries, of years—the lottery in Babylon was a game of plebeian character. He recounted (I don't know whether rightly) that barbers sold, in exchange for copper coins, squares of bone or of parchment adorned with symbols. In broad daylight a drawing took place. Those who won received silver coins without any other test of luck. The system was elementary, as you can see."
+  - citation: "[_The Garden of Forking Paths_](/borges/the-garden-of-forking-paths)"
+    excerpt: |+
+      On page 252 of Liddell Hart's _History of World War I_ you will read that an attack against the Serre-Montauban line by thirteen British divisions (supported by 1,400 artillery pieces), planned for 24 July 1916, had to be postponed until the morning of the 29th. The torrential rains, Captain Liddell Hart comments, caused this delay, an insignificant one, to be sure.
+      &nbsp;&nbsp;&nbsp;&nbsp;The following statement, dictated, reread and signed by Dr Yu Tsun, former professor of English at the _Hochschule_ at Tsingtao, throws an unsuspected light over the whole affair. The first two pages of the document are missing.
 ---
