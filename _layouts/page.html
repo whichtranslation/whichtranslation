@@ -46,7 +46,7 @@ layout: default
     <h3>Excerpts:</h3>
     <ul>
     {% for excerpt in page.excerpts %}
-    <li>{{ excerpt.excerpt | newline_to_br }}</li>
+    <li><strong>{{ excerpt.citation | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}:</strong>{{ excerpt.excerpt | markdownify | newline_to_br }}</li>
     {% endfor %}
     </ul>
     {% endif %}
