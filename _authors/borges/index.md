@@ -42,3 +42,9 @@ Most of the other writings of Borges have also received a recent translation by 
 | The Zahir                                   | ✗         | | ✓          | |✗ |
 | The Waiting                                 | ✗         | | ✓          | |✗ |
 | The God's Script                            | ✗         | | ✓          | |✗ |
+| The Wall and the Books | ✗         | | ✓          | |✓ |
+| Kafka and His Precursors | ✗         | | ✓          | |✓ |
+| Borges and I | ✗         | | ✓          | |✓ |
+| Everything and Nothing | ✗         | | ✓          | |✓ |
+| Nightmares | ✗         | | ✗          | |✓ |
+| Blindness | ✗         | | ✗          | |✓ |

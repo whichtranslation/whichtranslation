@@ -15,3 +15,19 @@ excerpts:
   - citation: "[_Pierre Menard, Author of the Quixote_](/borges/pierre-menard-author-of-the-quixote)"
     excerpt: "He did not want to compose another _Quixote_—which is easy—but _the Quixote itself_. Needless to say, he never contemplated a mechanical transcription of the original; he did not propose to copy it. His admirable intention was to produce a few pages which would coincide—word for word and line for line—with those of Miguel Cervantes."
 ---
+This collection contains five translated short stories (the same translations as those in [_Labyrinths_](/borges/labyrinths)):
+
+* [Pierre Menard, Author of the _Quixote_](/borges/pierre-menard-author-of-the-quixote)
+* [Tlön, Uqbar, Orbis Tertius](/borges/tlon-uqbar-orbis-tertius)
+* The Lottery in Babylon
+* The Garden of Forking Paths
+* Death and the Compass
+
+It also contains six translated essays, the first four of which are also in [_Labyrinths_](/borges/labyrinths):
+
+* The Wall and the Books (tr. James E. Irby)
+* Kafka and His Precursors (tr. James E. Irby)
+* Borges and I (tr. James E. Irby)
+* Everything and Nothing (tr. James E. Irby)
+* Nightmares (tr. Eliot Weinberger)
+* Blindness (tr. Eliot Weinberger)
