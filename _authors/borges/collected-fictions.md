@@ -13,6 +13,6 @@ editions:
 excerpts:
   - citation: "[_Tlön, Uqbar, Orbis Tertius_](/borges/tlon-uqbar-orbis-tertius)"
     excerpt: "I owe the discovery of Uqbar to the conjunction of a mirror and an encylopedia. The mirror troubled the far end of a hallway in a large country house on Calle Gaona, in Ramos Mejía*; the encylopedia is misleadingly titled _The Anglo-American Cyclopaedia_ (New York, 1917), and is a literal (though also laggardly) reprint of the 1902 _Encyclopaedia Britannica_."
-  - citation: "_Pierre Menard, Author of the Quixote_"
+  - citation: "[_Pierre Menard, Author of the Quixote_](/borges/pierre-menard-author-of-the-quixote)"
     excerpt: "Pierre Menard did not want to compose _another_ Quixote, which surely is easy enough—he wanted to compose _the_ Quixote. Nor, surely, need one have to say that his goal was never a mechanical transcription of the original; he had no intention of _copying_ it. His admirable intention was to produce a number of pages which coincided—word for word and line for line—with those of Miguel de Cervantes."
 ---

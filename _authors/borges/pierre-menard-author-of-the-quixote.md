@@ -18,7 +18,7 @@ Excerpts:
 {% for author in site.authors %}
 {% if author.author == page.author %}
 {% for excerpt in author.excerpts %}
-{% if excerpt.citation == "_Pierre Menard, Author of the Quixote_" %}
+{% if excerpt.citation == "[_Pierre Menard, Author of the Quixote_](/borges/pierre-menard-author-of-the-quixote)" %}
 <a href="{{ author.permalink }}">{{ author.work }}</a>:<br/>
 {{ excerpt.excerpt }}
 {% endif %}
