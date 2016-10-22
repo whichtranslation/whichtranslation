@@ -18,7 +18,7 @@ Excerpts:
 {% for author in site.authors %}
 {% if author.author == page.author %}
 {% for excerpt in author.excerpts %}
-{% if excerpt.citation == "_Tlön, Uqbar, Orbis Tertius_ - opening" %}
+{% if excerpt.citation == "[_Tlön, Uqbar, Orbis Tertius_](/borges/tlon-uqbar-orbis-tertius)" %}
 <a href="{{ author.permalink }}">{{ author.work }}</a>:<br/>
 {{ excerpt.excerpt }}
 {% endif %}
