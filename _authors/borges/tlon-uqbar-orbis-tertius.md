@@ -8,10 +8,10 @@ permalink: /borges/tlon-uqbar-orbis-tertius/
 
 Collected in:
 
-* [_Ficciones_](ficciones)
-* [_Labyrinths_](labyrinths) 
-* [_Everything and Nothing_](everything-and-nothing)
-* [_Collected Fictions_](collected-fictions)
+* [_Ficciones_](/borges/ficciones)
+* [_Labyrinths_](/borges/labyrinths) 
+* [_Everything and Nothing_](/borges/everything-and-nothing)
+* [_Collected Fictions_](/borges/collected-fictions)
 
 Excerpts:
 
