@@ -27,9 +27,9 @@ This collection contains five translated short stories (the same translations as
 
 * [Pierre Menard, Author of the _Quixote_](/borges/pierre-menard-author-of-the-quixote)
 * [Tlön, Uqbar, Orbis Tertius](/borges/tlon-uqbar-orbis-tertius)
-* The Lottery in Babylon
-* The Garden of Forking Paths
-* Death and the Compass
+* [The Lottery in Babylon](/borges/the-lottery-in-babylon)
+* [The Garden of Forking Paths](/borges/the-garden-of-forking-paths)
+* [Death and the Compass](/borges/death-and-the-compass)
 
 It also contains six translated essays, the first four of which are also in [_Labyrinths_](/borges/labyrinths):
 
