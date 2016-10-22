@@ -19,14 +19,14 @@ Most of the other writings of Borges have also received a recent translation by 
 | The Approach to Al-Mu'tasim                 | ✓         | | ✗          | |✗ |
 | [Pierre Menard, Author of the Quixote](pierre-menard-author-of-the-quixote)        | ✓         | | ✓          | |✓ |
 | The Circular Ruins                          | ✓         | | ✓          | |✗ |
-| The Lottery in Babylon                      | ✓         | | ✓          | |✓ |
+| [The Lottery in Babylon](the-lottery-in-babylon)                      | ✓         | | ✓          | |✓ |
 | An Examination of the Work of Herbert Quain | ✓         | | ✗          | |✗ |
 | The Library of Babel                        | ✓         | | ✓          | |✗ |
-| The Garden of Forking Paths                 | ✓         | | ✓          | |✓ |
+| [The Garden of Forking Paths](the-garden-of-forking-paths)                 | ✓         | | ✓          | |✓ |
 | Funes the Memorious                         | ✓         | | ✓          | |✗ |
 | The Form of the Sword                       | ✓         | | ✓          | |✗ |
 | Theme of the Traitor and the Hero           | ✓         | | ✓          | |✗ |
-| Death and the Compass                       | ✓         | | ✓          | |✓ |
+| [Death and the Compass](death-and-the-compass)                       | ✓         | | ✓          | |✓ |
 | The Secret Miracle                          | ✓         | | ✓          | |✗ |
 | Three Versions of Judas                     | ✓         | | ✓          | |✗ |
 | The End                                     | ✓         | | ✗          | |✗ |
