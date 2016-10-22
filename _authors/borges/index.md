@@ -15,7 +15,7 @@ Most of the other writings of Borges have also received a recent translation by 
 |---------------------------------------------|-----------|-|------------|-|-|
 | [Tlön, Uqbar, Orbis Tertius](tlon-uqbar-orbis-tertius)                  | ✓         | | ✓          | |✓ |
 | The Approach to Al-Mu'tasim                 | ✓         | | ✗          | |✗ |
-| Pierre Menard, Author of the Quixote        | ✓         | | ✓          | |✓ |
+| [Pierre Menard, Author of the Quixote](pierre-menard-author-of-the-quixote)        | ✓         | | ✓          | |✓ |
 | The Circular Ruins                          | ✓         | | ✓          | |✗ |
 | The Lottery in Babylon                      | ✓         | | ✓          | |✓ |
 | An Examination of the Work of Herbert Quain | ✓         | | ✗          | |✗ |
