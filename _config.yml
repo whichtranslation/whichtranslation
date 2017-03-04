@@ -16,7 +16,7 @@ twitter_username: whichtrans
 github_username:  whichtranslation
 collections:
   authors:
-    output: ture
+    output: true
     permalink: /:path:/
 
 # Build settings
