@@ -12,7 +12,7 @@ Classic Translations
 * [George Chapman](george-chapman)
 * [Samuel Butler](samuel-butler)
 
-Modern Translations (1990-2010)
+Modern Translations (1950-2010)
 
 * [Richmond Lattimore](richmond-lattimore) (2007)
 * [Stanley Lombardo](stanley-lombardo) (2000)
@@ -20,7 +20,7 @@ Modern Translations (1990-2010)
 * [Robert Fagles](robert-fagles) (1999)
 * [Edward McCrorie](edward-mccrorie) (2005)
 
-New Translations (2010-)
+New Translations (2010—)
 
 * [Stephen Mitchell](stephen-mitchell) (2014)
 * [Barry Powell](barry-powell) (2014)

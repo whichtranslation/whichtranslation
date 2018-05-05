@@ -13,14 +13,14 @@ Classic Translations
 * [Samuel Butler](samuel-butler)
 * [A.T. Murray](at-murray)
 
-Modern Translations
+Modern Translations (1950-2010)
 
 * [Richmond Lattimore](richmond-lattimore) (1951)
 * [Robert Fitzgerald](robert-fitzgerald) (1974)
 * [Robert Fagles](robert-fagles) (1990)
 * [Stanley Lombardo](stanley-lombardo) (1997)
 
-New Translations
+New Translations (2010—)
 
 * [Stephen Mitchell](stephen-mitchell) (2011)
 * [Edward McCrorie](edward-mccrorie) (2012)
