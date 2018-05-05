@@ -3,6 +3,7 @@ layout: page
 title: Jorge Luis Borges
 author: Jorge Luis Borges
 permalink: /borges/
+image: borges.jpg
 ---
 
 The question "which translation should I read of Borges?" is a complicated one to answer, as Borges is primarily known for his short stories, which have been collected and translated in various forms over the years. Any given short story may appear in one collection or another, and many of these collections were translated by multiple translators working together.
