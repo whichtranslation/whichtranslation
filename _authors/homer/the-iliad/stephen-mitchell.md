@@ -24,5 +24,16 @@ reviews:
    url: http://www.newyorker.com/books/page-turner/englishing-the-iliad-grading-four-rival-translations
    author: "Daniel Mendelsohn"
    venue: "The New Yorker" 
----
+excerpts:
+  - citation: "1.1"
+    excerpt: |+
+      The rage of Achilles—sing it now, goddess, sing <i>through</i> me
+      the deadly rage that caused the Achaeans such grief
+      and hurled down to Hades the souls of so many fighters,
+      leaving their naked flesh to be eaten by dogs
+      and carrion birds, as the will of Zeus was accomplished.
+      Begin at the time when bitter words first divided
+      that king of men, Agamemnon, and godlike Achilles.
 
+      What god was it who caused the two men to clash?
+---

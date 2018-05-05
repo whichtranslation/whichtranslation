@@ -16,4 +16,15 @@ editions:
     asin: "0062046284"
     kindle_asin: "B00U1R6RRC"
     isbn: "978-0062046277"
+excerpts:
+  - citation: "1.1"
+    excerpt: |+
+      Wrath—sing, goddess, of the ruinous wrath of Peleus' son Achilles,
+      that inflicted woes without number upon the Achaeans,
+      hurled forth to Hades many strong souls of warriors
+      and rendered their bodies prey for the dogs,
+      for all birds, and the will of Zeus was accomplished;
+      sing from when they two first stood in conflict—
+      Atreus' son, lord of men, and godlike Achilles.
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Which of the gods, then, set these two together in conflict, to fight?
 ---
