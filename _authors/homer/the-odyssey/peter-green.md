@@ -10,4 +10,9 @@ editions:
     year: 2018
     asin: "0520293630"
     isbn: "978-0520293632"
+reviews:
+  - title: "Light through the Fog"
+    url: "https://www.lrb.co.uk/v40/n08/colin-burrow/light-through-the-fog"
+    author: Colin Burrow
+    venue: London Review of Books
 ---
