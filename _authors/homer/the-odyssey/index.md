@@ -4,6 +4,7 @@ title: Homer - The Odyssey
 author: Homer
 work: The Odyssey
 permalink: /homer/the-odyssey/
+header_image: odyssey.png
 ---
 Classic Translations
 

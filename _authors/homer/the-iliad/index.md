@@ -4,6 +4,7 @@ title: Homer - The Iliad
 author: Homer
 work: The Iliad
 permalink: /homer/the-iliad/
+header_image: iliad.png
 ---
 Classic Translations
 
