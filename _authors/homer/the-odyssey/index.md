@@ -12,16 +12,16 @@ Classic Translations
 * [George Chapman](george-chapman)
 * [Samuel Butler](samuel-butler)
 
-Modern Translations
+Modern Translations (1990-2010)
 
-* [Richmond Lattimore](richmond-lattimore)
-* [Stanley Lombardo](stanley-lombardo)
-* [Robert Fitzgerald](robert-fitzgerald)
-* [Robert Fagles](robert-fagles)
+* [Richmond Lattimore](richmond-lattimore) (2007)
+* [Stanley Lombardo](stanley-lombardo) (2000)
+* [Robert Fitzgerald](robert-fitzgerald) (1998)
+* [Robert Fagles](robert-fagles) (1999)
+* [Edward McCrorie](edward-mccrorie) (2005)
 
-New Translations
+New Translations (2010-)
 
-* [Stephen Mitchell](stephen-mitchell)
-* [Edward McCrorie](edward-mccrorie)
-* [Anthony Verity](anthony-verity)
-* [Barry Powell](barry-powell)
+* [Stephen Mitchell](stephen-mitchell) (2014)
+* [Barry Powell](barry-powell) (2014)
+* [Anthony Verity](anthony-verity) (2017)
