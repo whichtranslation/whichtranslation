@@ -17,16 +17,16 @@ New Translations (2010—)
 * [Alice Oswald](alice-oswald) (2012)
 * [Stephen Mitchell](stephen-mitchell) (2011)
 
-Modern Translations (1950-2010)
+Modern Translations (1924-2010)
 
 * [Stanley Lombardo](stanley-lombardo) (1997)
 * [Robert Fagles](robert-fagles) (1990)
 * [Robert Fitzgerald](robert-fitzgerald) (1974)
 * [Richmond Lattimore](richmond-lattimore) (1951)
 
-Classic Translations
+Classic Translations (Public Domain)
 
-* [Alexander Pope](alexander-pope)
-* [George Chapman](george-chapman)
-* [Samuel Butler](samuel-butler)
-* [A.T. Murray](at-murray)
+* [A.T. Murray](at-murray) (1923)
+* [Samuel Butler](samuel-butler) (1898)
+* [Alexander Pope](alexander-pope) (1715)
+* [George Chapman](george-chapman) (1616)

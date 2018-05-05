@@ -9,6 +9,7 @@ header_image: iliad.png
 
 This page lists translators who have translated both [the Iliad](/homer/the-iliad/) and [the Odyssey](/homer/the-odyssey/), for readers who would like to read both works translated by the same translator.
 
+* A.T. Murray: [the Iliad](/homer/the-iliad/at-murray), [the Odyssey](/homer/the-odyssey/at-murray)
 * Alexander Pope: [the Iliad](/homer/the-iliad/alexander-pope), [the Odyssey](/homer/the-odyssey/alexander-pope)
 * George Chapman: [the Iliad](/homer/the-iliad/george-chapman), [the Odyssey](/homer/the-odyssey/george-chapman) 
 * Samuel Butler: [the Iliad](/homer/the-iliad/samuel-butler), [the Odyssey](/homer/the-odyssey/samuel-butler)

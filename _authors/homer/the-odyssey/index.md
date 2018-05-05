@@ -14,7 +14,7 @@ New Translations (2010—)
 * [Stephen Mitchell](stephen-mitchell) (2014)
 * [Barry Powell](barry-powell) (2014)
 
-Modern Translations (1950-2010)
+Modern Translations (1924-2010)
 
 * [Richmond Lattimore](richmond-lattimore) (2007)
 * [Edward McCrorie](edward-mccrorie) (2005)
@@ -22,8 +22,9 @@ Modern Translations (1950-2010)
 * [Robert Fitzgerald](robert-fitzgerald) (1998)
 * [Robert Fagles](robert-fagles) (1999)
 
-Classic Translations
+Classic Translations (Public Domain)
 
-* [Alexander Pope](alexander-pope)
-* [George Chapman](george-chapman)
-* [Samuel Butler](samuel-butler)
+* [A.T. Murray](at-murray) (1919)
+* [Samuel Butler](samuel-butler) (1900)
+* [Alexander Pope](alexander-pope) (1726)
+* [George Chapman](george-chapman) (1616)
