@@ -16,11 +16,11 @@ New Translations (2010—)
 
 Modern Translations (1924-2010)
 
-* [Richmond Lattimore](richmond-lattimore) (2007)
 * [Edward McCrorie](edward-mccrorie) (2005)
 * [Stanley Lombardo](stanley-lombardo) (2000)
-* [Robert Fitzgerald](robert-fitzgerald) (1998)
 * [Robert Fagles](robert-fagles) (1999)
+* [Richmond Lattimore](richmond-lattimore) (1965)
+* [Robert Fitzgerald](robert-fitzgerald) (1961)
 
 Classic Translations (Public Domain)
 
