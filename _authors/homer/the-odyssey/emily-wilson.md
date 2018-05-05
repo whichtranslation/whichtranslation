@@ -48,4 +48,18 @@ reviews:
     url: "https://inews.co.uk/culture/finally-translation-odyssey-homer-deserves/"
     author: Natalie Haynes
     venue: iNews
+excerpts:
+  - citation: "1.1"
+    excerpt: |+
+      Tell me about a complicated man.
+      Muse, tell me how he wandered and was lost
+      when he had wrecked the holy town of Troy,
+      and where he went, and who he met, the pain
+      he suffered in the storms at sea, and how
+      he worked to save his life and bring his men
+      back home. He failed to keep them safe; poor fools,
+      they ate the Sun God's cattle, and the god
+      kept them from home. Now goddess, child of Zeus,
+      tell the old story for our modern times.
+      Find the beginning.
 ---
