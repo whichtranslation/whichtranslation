@@ -9,6 +9,7 @@ editions:
   - publisher: University of California Press
     year: 2018
     asin: "0520293630"
+    kindle_asin: "B079D6BQ88"
     isbn: "978-0520293632"
 reviews:
   - title: "Light through the Fog"

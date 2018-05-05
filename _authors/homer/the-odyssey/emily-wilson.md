@@ -9,6 +9,7 @@ editions:
   - publisher: W. W. Norton & Company
     year: 2018
     asin: "0393089053"
+    kindle_asin: "B06XKNHGN1"
     isbn: "978-0393089059"
 reviews:
   - title: "The First Woman to Translate the ‘Odyssey’ Into English"

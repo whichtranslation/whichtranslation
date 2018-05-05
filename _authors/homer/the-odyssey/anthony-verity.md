@@ -9,6 +9,7 @@ editions:
   - publisher: Oxford University Press
     year: 2017
     asin: "0199669104"
+    kindle_asin: "B01LLWCBSO"
     isbn: "978-0199669103"
 reviews:
   - title: "Light through the Fog"
