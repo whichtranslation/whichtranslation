@@ -27,8 +27,8 @@ reviews:
 excerpts:
   - citation: "1.1"
     excerpt: |+
-      RAGE:
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sing, Goddess, Achilles' rage,
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps;"><b>R</b>age:</span>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>S</b>ing, Goddess, Achilles' rage,
       Black and murderous, that cost the Greeks
       Incalculable pain, pitched countless souls
       Of heroes into Hades' dark,
@@ -36,7 +36,7 @@ excerpts:
       For dogs and birds, as Zeus' will was done.
       &nbsp;&nbsp;Begin with the clash between Agamemnon—
       The Greek warlord—and godlike Achilles.
-      &nbsp;&nbsp;Which of the immortals set these two
+      &nbsp;&nbsp;<b>W</b>hich of the immortals set these two
       At each other's throats?
 ---
 
